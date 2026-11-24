@@ -1,10 +1,9 @@
 # _config.yml
 
 # required, replace with your own information -----
-title: Hello for Github Pages
-author: Sara Gong
-description: > 
-  A minimalist template for designing a personal GitHub Pages website - without typing a single line of code.
+title: "Areesha Maryam | Information Security Student"
+author: Areesha Maryam
+description: "BE Information Security student at NUST. My labs, skills and projects."
 baseurl: ""
 
 plugins:
